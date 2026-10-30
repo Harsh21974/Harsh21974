@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/harsh-shahporia">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/harsh-shahporia">LinkedIn</a> ·
   <a href="mailto:shahporiaharsh@gmail.com">Email</a>
 </p>
 
